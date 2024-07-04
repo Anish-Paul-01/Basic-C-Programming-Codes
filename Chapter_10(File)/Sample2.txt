@@ -1,0 +1,2 @@
+The Number is 45 
+Thanks for Using fprinf.
